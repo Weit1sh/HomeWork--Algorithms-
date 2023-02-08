@@ -1,5 +1,5 @@
 1)	Sudents
-Є група студентів, яка складається з N людей. З групи на сесії S людей здали сесію на відмінно, за що отримали стипендію. Загальна сума коштів, що виділена на стипендії M $. Скільки грошей отримав кожний з студентів, якщо стипендії рівні для всіх? На скільки би менше отримав кожен з студентів, якщо б сесію успішно здали усі студенти. Змінні N, S, M вводимо з клавіатури.
+There is a group of students consisting of N people. From the group at the session, S people passed the session with flying colors, for which they received a scholarship. The total amount of funds allocated for scholarships is M $. How much money did each student receive if the scholarships are equal for all? How much less would each student receive if all students successfully passed the session. The variables N, S, M are entered from the keyboard.
 
 2) Gomer
-Написати алгоритм, занять в тренажерному залі для відвідувача, що бажають удосконалити свою форму. Визначити його початкову вагу W кг. Що кожного заняття, Гомер скидає 5% від зайвої ваги перед початком заняття. Дружина Гомера вважає, що його ідеальна вага I кг. Розрахувати кількість занять, що потрібно пройти Гомер, щоб скинути потрібну вагу.
+Write an algorithm for training in the gym for visitors who want to improve their form. Determine its initial weight W kg. Every class, Homer loses 5% of his excess weight before class. Homer's wife believes that his ideal weight is 1 kg. Calculate the number of classes that Homer needs to go through to lose the required weight.
